@@ -1,6 +1,6 @@
 ---
 cloud: experience-cloud
-product: EXC
+product: 学习和支持
 solution-title: Experience Cloud 核心服务
 solution-hub-url: https://helpx.adobe.com/cn/support/experience-cloud/core-services.html
 solution-icon: help/assets/experience-cloud-logo-24.png
@@ -11,7 +11,7 @@ tutorials-url: https://helpx.adobe.com/cn/support/experience-cloud/core-services
 git-repo: https://github.com/AdobeDocs/exc.en
 index: false
 translation-type: tm+mt
-source-git-commit: cbe7cdc8031e57dd66d7801a6dbf6e7df959a6bd
+source-git-commit: 92bafe6fbb79182c3cc9fad2f95e13b56eb115e9
 
 ---
 
@@ -33,7 +33,7 @@ metadata.md 文件包括可传递给存储库中用户指南 TOC.md 文件的存
 | tutorials-url | 指向视频教程的链接 -- helpx 教程或 KT 教程 |
 | mini-toc-levels | 确定右侧边栏中显示的标题级别数量。默认为 2 |
 | git-repo | 指定协作存储库的位置。将 github.com 镜像用于面向公众的文档 |
-| index | set index= no for soft launch |
+| 索引 | 对于软启动项，设置index=no |
 
 在 TOC.md 文件中
 
