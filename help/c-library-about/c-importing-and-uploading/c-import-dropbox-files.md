@@ -1,49 +1,49 @@
 ---
-description: 将文件从Dropbox导入Adobe Experience Cloud库，以便从任何Adobe Experience Cloud产品管理这些文件。
-seo-description: 将文件从Dropbox导入Adobe Experience Cloud库，以便从任何Adobe Experience Cloud产品管理这些文件。
-seo-title: 将Dropbox文件导入Adobe Experience Cloud Library
+description: 将文件从 Dropbox 导入 Adobe Experience Cloud 库，以便通过任何 Adobe Experience Cloud 产品管理这些文件。
+seo-description: 将文件从 Dropbox 导入 Adobe Experience Cloud 库，以便通过任何 Adobe Experience Cloud 产品管理这些文件。
+seo-title: 将 Dropbox 文件导入 Adobe Experience Cloud 库
 solution: Experience Manager
-title: 将Dropbox文件导入Adobe Experience Cloud Library
-uuid: 4b688672-02ee-4718-9da8-55b9a59c5ff6
-translation-type: tm+mt
+title: 将 Dropbox 文件导入 Adobe Experience Cloud 库
+uuid: 4b688762-02ee-4718-9da8-55b9a59c5ff6
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# 将Dropbox文件导入Adobe Experience Cloud Library{#import-dropbox-files-into-the-adobe-experience-cloud-library}
+# 将 Dropbox 文件导入 Adobe Experience Cloud 库{#import-dropbox-files-into-the-adobe-experience-cloud-library}
 
-将文件从Dropbox导入Adobe Experience Cloud库，以便从任何Adobe Experience Cloud产品管理这些文件。
+将文件从 Dropbox 导入 Adobe Experience Cloud 库，以便通过任何 Adobe Experience Cloud 产品管理这些文件。
 
 >[!NOTE]
 >
->必须先创建文件夹，然后才能执行此任务。
+>必须先创建文件夹，然后才能执行这项任务。
 
-要将Dropbox文件导入Experience Cloud库，请执行以下操作：
+要将 Dropbox 文件导入 Experience Cloud 库，请执行以下操作：
 
-1. 选择 **[!UICONTROL “新建]** ”&gt;“ **[!UICONTROL 导入]**”。
+1. 选择&#x200B;**[!UICONTROL 新建]** &gt; **[!UICONTROL 导入]**。
 
    ![](assets/library_new_folder_upload.png)
 
 1. 选择 **[!UICONTROL Dropbox]**。
 
-   登录Dropbox帐户(如果还没有)。
+   登录到您的 Dropbox 帐户（如果尚未登录）。
 
    ![](assets/library_import_db.png)
 
-1. Click **[!UICONTROL Next]**.
+1. 单击&#x200B;**[!UICONTROL 下一步]**。
 1. 选择一个或多个要导入的文件。
 
    ![](assets/library_import_db_files_selected.png)
 
-1. Click **[!UICONTROL Next]**.
-1. 选择放置资产的文件夹。
+1. 单击&#x200B;**[!UICONTROL 下一步]**。
+1. 选择要放置相应资产的文件夹。
 
    >[!NOTE]
    >
-   >您可以选择一个用于导入资产的文件夹。要将文件放置在不同文件夹中，请为每个文件夹重复此任务。
+   >您可以选取一个文件夹，以存放导入的资产。要将文件放置在不同的文件夹，请为每个文件夹重复此任务。
 
    ![](assets/library_import_db_folder_select.png)
 
-1. Click **[!UICONTROL Import]**.
+1. 单击&#x200B;**[!UICONTROL 导入]**。
 
