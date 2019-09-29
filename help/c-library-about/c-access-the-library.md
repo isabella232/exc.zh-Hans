@@ -1,23 +1,23 @@
 ---
-description: 使用您的IMS凭据访问Adobe Experience Cloud库，利用Experience Cloud库提供的功能。
-seo-description: 使用您的IMS凭据访问Adobe Experience Cloud库，利用Experience Cloud库提供的功能。
-seo-title: 访问Adobe Experience Cloud库
+description: 使用您的 IMS 凭据访问 Adobe Experience Cloud 库，以利用 Experience Cloud 库提供的功能。
+seo-description: 使用您的 IMS 凭据访问 Adobe Experience Cloud 库，以利用 Experience Cloud 库提供的功能。
+seo-title: 访问 Adobe Experience Cloud 库
 solution: Experience Manager
-title: 访问Adobe Experience Cloud库
-uuid: c5ef305a-07f4-47ff-b20 d-77dc2577 ba95
-translation-type: tm+mt
+title: 访问 Adobe Experience Cloud 库
+uuid: c5ef305a-07f4-47bf-b20d-77dc2577ba95
+translation-type: ht
 source-git-commit: 249fd5c4e30eeea2322c56de971a4b1afcb294ab
 
 ---
 
 
-# 访问Adobe Experience Cloud库{#access-the-adobe-experience-cloud-library}
+# 访问 Adobe Experience Cloud 库{#access-the-adobe-experience-cloud-library}
 
-使用您的IMS凭据访问Adobe Experience Cloud库，利用Experience Cloud库提供的功能。
+使用您的 IMS 凭据访问 Adobe Experience Cloud 库，以利用 Experience Cloud 库提供的功能。
 
-访问Experience Cloud Library：
+要访问 Experience Cloud 库，请执行以下操作：
 
-1. 输入 [EXC库](https://experiencecloud.adobe.com/library)。
-1. 使用IMS凭据。
-1. 确保组织正确无误。如果您无法访问Experience Cloud库以获得正确的组织，请与您的管理员联系。
+1. 访问 [ExC 库](https://experiencecloud.adobe.com/library)。
+1. 使用 IMS 凭据。
+1. 确保组织正确无误。如果您无法访问 Experience Cloud 库以进入正确的组织，请与您的管理员联系。
 
