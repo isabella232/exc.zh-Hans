@@ -2,18 +2,17 @@
 description: Adobe Experience Cloud 库作为一种通用的、集中式体验，可用于在多种 Adobe Experience Cloud 解决方案中存储、查找和选择资产。
 title: Adobe Experience Cloud 库
 uuid: 507e28c7-d8b7-42ac-82d4-caf7c16bdd3b
-translation-type: ht
-source-git-commit: 12f34b6ab4e0e95356e1824af9bf37561e19b2b6
+translation-type: tm+mt
+source-git-commit: 667da5bf636cb4e005ecf84b33e9f3baf46aa54f
 
 ---
 
 
 # Adobe Experience Cloud 库{#adobe-experience-cloud-library}
 
-Adobe Experience Cloud 库作为一种通用的、集中式体验，可用于在多种 Adobe Experience Cloud 解决方案中存储、查找和选择资产。
+自2020年3月起，Adobe正式弃用了Adobe Experience Cloud库。 它不再可供访问。
 
-## 热门主题
+**相关功能**
 
-* [导入内容](/help/c-library-about/c-importing-and-uploading/c-importing-and-uploading.md)
-* 通过[搜索](/help/c-library-about/c-assets/c-search-for-assets.md)或[筛选](/help/c-library-about/c-assets/c-filter-assets.md)查找内容
-* [查看有关资产的信息](/help/c-library-about/c-assets/c-view-detailed-information-for-an-asset.md)
+* [Experience Cloud 资产](https://docs.adobe.com/content/help/en/core-services/interface/assets/experience-cloud-assets.html)
+* [AEM Assets](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/home.html)
