@@ -5,8 +5,11 @@ seo-title: 更改 Dropbox 或 Creative Cloud 帐户
 solution: Experience Manager
 title: 更改 Dropbox 或 Creative Cloud 帐户
 uuid: bc8c9cce-a543-42cc-81cd-b9995f26c8d4
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '131'
+ht-degree: 97%
 
 ---
 
@@ -19,7 +22,7 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 要切换到其他 Dropbox 或 Creative Cloud 帐户，请执行以下操作：
 
-1. 选择&#x200B;**[!UICONTROL 新建]** &gt; **[!UICONTROL 导入]**。
+1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
 
    ![](assets/library_new_folder_upload.png)
 
