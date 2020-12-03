@@ -5,8 +5,11 @@ seo-title: 恢复置入垃圾桶的资产
 solution: Experience Manager
 title: 恢复置入垃圾桶的资产
 uuid: 5cf60e36-99fb-4335-af9d-2224342c382b
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +27,7 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
    ![](assets/library_general_trashed_items.png)
 
 1. 单击一个或多个要恢复的项目。
-1. 单击&#x200B;**[!UICONTROL 更多信息 &gt; 恢复]**。
+1. 单击&#x200B;**[!UICONTROL 更多信息 > 恢复]**。
 
    ![](assets/library_restore_perm_delete.png)
 
