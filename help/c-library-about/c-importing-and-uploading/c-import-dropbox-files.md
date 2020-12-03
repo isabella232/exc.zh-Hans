@@ -5,8 +5,11 @@ seo-title: 将 Dropbox 文件导入 Adobe Experience Cloud 库
 solution: Experience Manager
 title: 将 Dropbox 文件导入 Adobe Experience Cloud 库
 uuid: 4b688762-02ee-4718-9da8-55b9a59c5ff6
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '164'
+ht-degree: 98%
 
 ---
 
@@ -21,7 +24,7 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 要将 Dropbox 文件导入 Experience Cloud 库，请执行以下操作：
 
-1. 选择&#x200B;**[!UICONTROL 新建]** &gt; **[!UICONTROL 导入]**。
+1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
 
    ![](assets/library_new_folder_upload.png)
 
