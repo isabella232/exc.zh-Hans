@@ -5,8 +5,11 @@ seo-title: 搜索资产
 solution: Experience Manager
 title: 搜索资产
 uuid: 882ff4db-5bca-456c-888c-220c70eadce7
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '88'
+ht-degree: 100%
 
 ---
 
