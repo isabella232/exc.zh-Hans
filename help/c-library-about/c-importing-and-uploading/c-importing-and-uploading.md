@@ -5,8 +5,11 @@ seo-title: 导入和上传文件
 solution: Experience Manager
 title: 导入和上传文件
 uuid: 2ace4c62-7df9-4444-824d-078fc87d9150
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '106'
+ht-degree: 100%
 
 ---
 
