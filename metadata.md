@@ -1,17 +1,20 @@
 ---
-cloud: experience-cloud
-product: 学习和支持
+cloud: Experience Cloud
+product: Learn & Support
 solution-title: Experience Cloud 核心服务
 solution-hub-url: https://helpx.adobe.com/cn/support/experience-cloud/core-services.html
 solution-icon: help/assets/experience-cloud-logo-24.png
 getting-started-title: 快速入门
 getting-started-url: https://helpx.adobe.com/cn/experience-cloud-core-services/get-started.html
 tutorials-title: Campaign Standard
-tutorials-url: https://helpx.adobe.com/cn/support/experience-cloud/core-services.html
-git-repo: https://github.com/AdobeDocs/exc.en
+tutorials-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
+git-repo: https://git.corp.adobe.com/AdobeDocs/exc.zh-Hans
 index: false
-translation-type: ht
-source-git-commit: 92bafe6fbb79182c3cc9fad2f95e13b56eb115e9
+translation-type: tm+mt
+source-git-commit: ec443c8831a15c9c0274d1fcad8e83e920f43f08
+workflow-type: tm+mt
+source-wordcount: '179'
+ht-degree: 100%
 
 ---
 
@@ -33,7 +36,7 @@ metadata.md 文件包括可传递给存储库中用户指南 TOC.md 文件的存
 | tutorials-url | 指向视频教程的链接 -- helpx 教程或 KT 教程 |
 | mini-toc-levels | 确定右侧边栏中显示的标题级别数量。默认为 2 |
 | git-repo | 指定协作存储库的位置。将 github.com 镜像用于面向公众的文档 |
-| index | 设置 index=no 可实现软启动 |
+| index | 对于软启动，请设置 index=no |
 
 在 TOC.md 文件中
 
