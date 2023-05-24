@@ -1,14 +1,13 @@
 ---
 description: 切换到其他 Dropbox 或 Creative Cloud 帐户，以便向 Adobe Experience Cloud 库中添加内容。
-seo-description: 切换到其他 Dropbox 或 Creative Cloud 帐户，以便向 Adobe Experience Cloud 库中添加内容。
-seo-title: 更改 Dropbox 或 Creative Cloud 帐户
+seo-description: Switch to a different Dropbox or Creative Cloud account to add content to the Adobe Experience Cloud Library.
+seo-title: Change Dropbox or Creative Cloud Accounts
 solution: Experience Manager
 title: 更改 Dropbox 或 Creative Cloud 帐户
 uuid: bc8c9cce-a543-42cc-81cd-b9995f26c8d4
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '107'
 ht-degree: 97%
 
 ---
@@ -22,7 +21,7 @@ ht-degree: 97%
 
 要切换到其他 Dropbox 或 Creative Cloud 帐户，请执行以下操作：
 
-1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
+1. 选择 **[!UICONTROL 新]** > **[!UICONTROL 导入]**.
 
    ![](assets/library_new_folder_upload.png)
 

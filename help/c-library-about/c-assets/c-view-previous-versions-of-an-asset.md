@@ -1,14 +1,13 @@
 ---
 description: 您可以在 Adobe Experience Cloud 库中查看资产的早期版本。
-seo-description: 您可以在 Adobe Experience Cloud 库中查看资产的早期版本。
-seo-title: 查看资产的早期版本
+seo-description: You can view previous versions of an asset in the Adobe Experience Cloud Library.
+seo-title: View Previous Versions of an Asset
 solution: Experience Manager
 title: 查看资产的早期版本
 uuid: 0fef9a0f-ba9f-49cf-a49c-b7f2f8022f32
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '81'
 ht-degree: 100%
 
 ---

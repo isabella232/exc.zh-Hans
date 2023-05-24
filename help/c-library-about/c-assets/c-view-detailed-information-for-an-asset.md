@@ -1,14 +1,13 @@
 ---
 description: 在 Adobe Experience Cloud 库中查看有关资产（包括版本）的详细信息。
-seo-description: 在 Adobe Experience Cloud 库中查看有关资产（包括版本）的详细信息。
-seo-title: 查看资产的详细信息
+seo-description: View detailed information about assets, including versions, in the Adobe Experience Cloud Library.
+seo-title: View Detailed Information for an Asset
 solution: Experience Manager
 title: 查看资产的详细信息
 uuid: 030511fd-b6b5-4fe8-b129-d9937d1133a4
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '76'
 ht-degree: 100%
 
 ---

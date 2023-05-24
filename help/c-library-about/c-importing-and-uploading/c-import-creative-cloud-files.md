@@ -1,15 +1,14 @@
 ---
 description: 将文件从 Creative Cloud 导入 Adobe Experience Cloud 库，以便通过任何 Adobe Experience Cloud 产品管理这些文件。
-seo-description: 将文件从 Creative Cloud 导入 Adobe Experience Cloud 库，以便通过任何 Adobe Experience Cloud 产品管理这些文件。
-seo-title: 将 Creative Cloud 文件导入 Adobe Experience Cloud 库
+seo-description: Import files from Creative Cloud into the Adobe Experience Cloud Library to manage them from any Adobe Experience Cloud product.
+seo-title: Import Creative Cloud Files into the Adobe Experience Cloud Library
 solution: Experience Manager
 title: 将 Creative Cloud 文件导入 Adobe Experience Cloud 库
 uuid: 184632df-7084-4db8-a4d6-c372ab9764c9
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 98%
+source-wordcount: '143'
+ht-degree: 97%
 
 ---
 
@@ -24,7 +23,7 @@ ht-degree: 98%
 
 要将 Creative Cloud 文件导入 Experience Cloud 库，请执行以下操作：
 
-1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
+1. 选择 **[!UICONTROL 新]** > **[!UICONTROL 导入]**.
 
    ![](assets/library_new_folder_upload.png)
 

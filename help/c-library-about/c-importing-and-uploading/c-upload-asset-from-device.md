@@ -1,14 +1,13 @@
 ---
 description: 从设备上传资产，以便在 Adobe Experience Cloud 库中管理资产。
-seo-description: 从设备上传资产，以便在 Adobe Experience Cloud 库中管理资产。
-seo-title: 从设备上传资产
+seo-description: Upload assets from your device to manage them in the Adobe Experience Cloud Library.
+seo-title: Upload Asset from Device
 solution: Experience Manager
 title: 从设备上传资产
 uuid: 77b608b3-b588-4eec-a2f9-a3e4d2e6d44f
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '77'
 ht-degree: 96%
 
 ---
@@ -20,7 +19,7 @@ ht-degree: 96%
 
 要将资产从设备上传到 Experience Cloud 库，请执行以下操作：
 
-1. Select **[!UICONTROL New]** > **[!UICONTROL Upload]**.
+1. 选择 **[!UICONTROL 新]** > **[!UICONTROL 上传]**.
 
    ![](assets/library_new_folder_upload.png)
 

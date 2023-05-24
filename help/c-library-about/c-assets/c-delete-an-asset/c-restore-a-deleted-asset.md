@@ -1,14 +1,13 @@
 ---
 description: 您可以恢复 Adobe Experience Cloud 库中置入垃圾桶的资产。
-seo-description: 您可以恢复 Adobe Experience Cloud 库中置入垃圾桶的资产。
-seo-title: 恢复置入垃圾桶的资产
+seo-description: You can restore an asset you trashed in the Adobe Experience Cloud Library.
+seo-title: Restore a Trashed Asset
 solution: Experience Manager
 title: 恢复置入垃圾桶的资产
 uuid: 5cf60e36-99fb-4335-af9d-2224342c382b
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '108'
 ht-degree: 100%
 
 ---
