@@ -2,8 +2,7 @@
 description: Adobe Experience Cloud 库作为一种通用的、集中式体验，可用于在多种 Adobe Experience Cloud 解决方案中存储、查找和选择资产。
 title: Adobe Experience Cloud 库
 uuid: 507e28c7-d8b7-42ac-82d4-caf7c16bdd3b
-exl-id: 4f1bb155-66f9-492f-9902-686c2758d341
-source-git-commit: d8a5a7b2dcbf3066a9ceb464bd52727cc6a846af
+source-git-commit: 1328c5a6c9aeb7d8c0e7eb61481c6a0c043ed091
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 78%
